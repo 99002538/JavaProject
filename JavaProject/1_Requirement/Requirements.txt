@@ -1,0 +1,61 @@
+﻿Requirements:
+
+ High Level Requirements
+
+
+ID
+Description
+
+HL_1
+Book Passenger
+  
+HL_2
+Cancel Passenger
+
+HL_3
+Change Price
+
+HL_4
+Recover Seat
+
+HL_5
+Get Available Seats
+
+HL_6
+
+Flight is full
+HL_7
+
+Initialize Flight 
+HL_8
+
+Compare prices for two flight to which one is cheaper
+
+				Table 1: High level requirement
+
+1.4.2 Low Level Requirements:
+
+
+ID
+Description
+
+LL_1
+
+Create a .txt file for creating dataset for flight details
+LL_2
+Create a .txt file for creating dataset for passenger details to book or cancel reservations
+
+LL_3
+Ensure that FlightReservationSystem.class is able to access input1.txt file
+
+LL_4
+Ensure that FlightReservationSystem.class is able to access input2.txt file
+
+LL_5
+Ensure that output file is generated
+
+
+				Table 2: Low level requirement
+
+
+
