@@ -23,8 +23,11 @@
        They are two different flights, thus we book two tickets for KennethHarris.
 
     * Suppose when the following scenario happens:
+    
         > The passenger booked a flight at price 100
+        
         > The flight changed price to 80.
+        
         > The passenger request to book the flight the second time.
        In this case, the passenger's flight price is still 100, unless it cancel the flight and book again.
 
