@@ -1,5 +1,9 @@
 # JavaProject - Airline Reservation System  
 ---------------------------
+|CI/CD|
+|-----|
+|![Maven CI/CD](https://github.com/99002538/JavaProject/workflows/Maven%20CI/CD/badge.svg)|
+---------------------------
 
 ### Brief description of implementation.
 
