@@ -1,0 +1,152 @@
+Flight# Q982 Number of seats available: 26
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# A769 Number of seats available: 45
+Total seats sold: 5
+Total revenue on this flight: $500
+
+Passenger Name                                     Seat#      Price     
+LindaHenry                                         23         $100      
+LabeebAli                                          41         $100      
+LeoDicaprio                                        31         $100      
+AlfredLobo                                         40         $100      
+KenNygard                                          7          $100      
+
+Flight# B349 Number of seats available: 50
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B438 Number of seats available: 52
+Total seats sold: 2
+Total revenue on this flight: $400
+
+Passenger Name                                     Seat#      Price     
+JimBean                                            50         $200      
+JuliaRoberts                                       19         $200      
+
+Flight# B435 Number of seats available: 84
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B347 Number of seats available: 50
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B348 Number of seats available: 50
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# J745 Number of seats available: 350
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B345 Number of seats available: 47
+Total seats sold: 3
+Total revenue on this flight: $480
+
+Passenger Name                                     Seat#      Price     
+NancyMendonca                                      35         $160      
+RoystonMendonca                                    5          $160      
+SabyMendonca                                       48         $160      
+
+Flight# A345 Number of seats available: 53
+Total seats sold: 1
+Total revenue on this flight: $129
+
+Passenger Name                                     Seat#      Price     
+RohanNeil                                          42         $129      
+
+Flight# A675 Number of seats available: 56
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B346 Number of seats available: 50
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# K128 Number of seats available: 94
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# A243 Number of seats available: 64
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B795 Number of seats available: 46
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B352 Number of seats available: 50
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# A792 Number of seats available: 56
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# G945 Number of seats available: 43
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B350 Number of seats available: 50
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B351 Number of seats available: 50
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# A380 Number of seats available: 54
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# T241 Number of seats available: 69
+Total seats sold: 5
+Total revenue on this flight: $420
+
+Passenger Name                                     Seat#      Price     
+NandKishore                                        9          $100      
+CarolFerns                                         33         $80       
+NishantRaj                                         69         $80       
+NancyAjram                                         49         $80       
+JeffFerns                                          34         $80       
+
+
+System's summary
+Total seats sold: 16
+Total revenue: $1929
