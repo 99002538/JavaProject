@@ -14,9 +14,11 @@
     * When book a passenger to a flight, suppose that the passenger choose a random seat.
 
     * Suppose one passenger book the same flight at most once.
-       For example, in inputfile2.txt "BookPassenger,RohanNeil,BOM,DXB" appears two times, 
+    
+       > For example, in inputfile2.txt "BookPassenger,RohanNeil,BOM,DXB" appears two times, 
        but we only book one ticket for RohanNeil for the flight "A769".
-       But for "BookPassenger,KennethHarris,CHI,DFW", since there are two flights, and the first time
+       
+       > But for "BookPassenger,KennethHarris,CHI,DFW", since there are two flights, and the first time
        KennethHarris pick "K792" which has the lower price, the second time KennethHarris pick "A792"
        They are two different flights, thus we book two tickets for KennethHarris.
 
