@@ -1,4 +1,7 @@
 # JavaProject - Airline Reservation System  
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/69e8d1f222c74950a0cf35258d1569de)](https://app.codacy.com/gh/99002538/JavaProject?utm_source=github.com&utm_medium=referral&utm_content=99002538/JavaProject&utm_campaign=Badge_Grade)
+
 ---------------------------
 |CI/CD|
 |-----|
