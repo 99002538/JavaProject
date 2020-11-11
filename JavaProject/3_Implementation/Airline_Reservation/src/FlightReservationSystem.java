@@ -9,6 +9,16 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.TreeSet;
 
+/**
+ * Class for handling all the transactions.
+ *
+ * <p>Valid transactions contains:</p>
+ * <ul>
+ * <li>Book a passenger on a flight</li>
+ * <li>Change the price of a seat on a flight</li>
+ * <li>Cancel a booking on a flight</li>
+ * </ul>
+ */
 
 public class FlightReservationSystem {
     /**
