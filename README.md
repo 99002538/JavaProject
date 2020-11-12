@@ -4,7 +4,7 @@
 
 |CI/CD|Codacy|Issues|Pull Requests|
 |-----|-----|-----|-----|
-|![Maven CI/CD](https://github.com/99002538/JavaProject/workflows/Maven%20CI/CD/badge.svg)| [![Codacy Badge](https://api.codacy.com/project/badge/Grade/69e8d1f222c74950a0cf35258d1569de)](https://app.codacy.com/gh/99002538/JavaProject?utm_source=github.com&utm_medium=referral&utm_content=99002538/JavaProject&utm_campaign=Badge_Grade)| ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/99002538/JavaProject)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/99002538/JavaProject)|
+|![Maven CI/CD](https://github.com/99002538/JavaProject/workflows/Maven%20CI/CD/badge.svg)| [![Codacy Badge](https://api.codacy.com/project/badge/Grade/69e8d1f222c74950a0cf35258d1569de)](https://app.codacy.com/gh/99002538/JavaProject?utm_source=github.com&utm_medium=referral&utm_content=99002538/JavaProject&utm_campaign=Badge_Grade)| ![GitHub open issues](https://img.shields.io/github/issues/99002538/JavaProject)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/99002538/JavaProject)|
 
 ---------------------------
 
