@@ -4,7 +4,7 @@
 
 |CI/CD|Codacy|Issues|Pull Requests|
 |-----|-----|-----|-----|
-|![Maven CI/CD](https://github.com/99002538/JavaProject/workflows/Maven%20CI/CD/badge.svg)| [![Codacy Badge](https://api.codacy.com/project/badge/Grade/69e8d1f222c74950a0cf35258d1569de)](https://app.codacy.com/gh/99002538/JavaProject?
+|![Maven CI/CD](https://github.com/99002538/JavaProject/workflows/Maven%20CI/CD/badge.svg)| [![Codacy Badge](https://api.codacy.com/project/badge/Grade/69e8d1f222c74950a0cf35258d1569de)](https://app.codacy.com/gh/99002538/JavaProject?|
 
 ---------------------------
 
